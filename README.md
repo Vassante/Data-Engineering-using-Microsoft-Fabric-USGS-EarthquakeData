@@ -1,6 +1,8 @@
 # Data Engineering using Microsoft Fabric and Reporting using PowerBI on a Worldwide earthquake data from USGS: End-to-End Data Engineering Project with Business Reporting
 ## Introduction
 
+Dataset Source: USGS site - https://earthquake.usgs.gov/fdsnws/event/1/#parameters
+
 ## Techstack
 * SQL
 * Python
