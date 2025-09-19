@@ -8,6 +8,7 @@ Dataset Source: USGS site - https://earthquake.usgs.gov/fdsnws/event/1/#paramete
 * Python
 * PySpark
 * Microsoft Fabric
+* PowerBI
 
 ## Overview
 ### 1. Data Ingestion (Extraction)
